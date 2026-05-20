@@ -180,9 +180,9 @@ I enjoy working with Python, SQL, Power BI, and Machine Learning models, and I a
     <td valign="top" width="50%">
       <h4>🏅 Key Achievements</h4>
       <ul>
-        <li><b>will updated later</b> (Python)</li>
-        <li><b>will updated later</b> (2025)</li>
-         <li><b>will updated later</b> (2025)</li>
+        <li><b>will be updated later</b> (Python)</li>
+        <li><b>will be updated later</b> (2025)</li>
+         <li><b>will be updated later</b> (2025)</li>
       </ul>
     </td>
     <td valign="top" width="50%">
@@ -190,10 +190,10 @@ I enjoy working with Python, SQL, Power BI, and Machine Learning models, and I a
       <details>
         <summary>Click to see my certifications</summary>
         <ul>
-            <li>will updated later</li>
-            <li>will updated later</li>
-            <li>will updated later</li>
-            <li>will updated later</li>
+            <li>will be updated later</li>
+            <li>will be updated later</li>
+            <li>will be updated later</li>
+            <li>will be updated later</li>
         </ul>
       </details>
     </td>
