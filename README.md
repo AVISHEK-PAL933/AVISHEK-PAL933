@@ -86,7 +86,7 @@ I enjoy working with Python, SQL, Power BI, and Machine Learning models, and I a
 ### 📊 My GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayandip30882636&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AVISHEK-PAL933&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=syashu16&theme=radical&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syashu16&theme=radical&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
